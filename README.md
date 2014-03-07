@@ -14,9 +14,9 @@ bundle install
 bundle exec rackup
 ```
 
-navigate to http://0.0.0.0:9292/
-open web console
-should see "It works!"
+navigate to http://0.0.0.0:9292/   
+open web console   
+should see "It works!"   
 
 ## License
 
