@@ -3,7 +3,7 @@
 ## About
 
 Provides a fun little sandbox to have fun with opal. Taken from
-(http://opalrb.org/docs/using_sprockets/)
+http://opalrb.org/docs/using_sprockets/
 
 ## Start Hacking
 
@@ -14,7 +14,7 @@ bundle install
 bundle exec rackup
 ```
 
-navigate to (http://0.0.0.0:9292/)
+navigate to http://0.0.0.0:9292/
 open web console
 should see "It works!"
 
